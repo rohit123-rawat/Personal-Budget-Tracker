@@ -4,7 +4,7 @@
 1. Navigate to the right directory where your project will be locally saved
 
 
-2. Clone this repository and move to `Personal-Budget-Tracker` directory
+2. Clone this repository and move to the `Personal-Budget-Tracker` directory
 
    ```sh
    git clone https://github.com/rohit123-rawat/Personal-Budget-Tracker.git
