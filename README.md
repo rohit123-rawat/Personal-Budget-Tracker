@@ -1,5 +1,6 @@
 ## Installation Guidelines :rocket:
 
+**Note:** Please review the PHP Version before setting up the project. I'm using the PHP version between ^7.3 to ^8.0.
 
 1. Navigate to the right directory where your project will be locally saved
 
